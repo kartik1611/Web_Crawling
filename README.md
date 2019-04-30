@@ -1,6 +1,11 @@
 # Web_Crawling
 
-**Crawling Data**
-Over here I crawl a food site named zomato using selenium and provide details in pandas.
+A web crawler  is a computer program that automatically fetches the contents of a web page ususally used by search engine platforms.
 
-Also crawled for yocket web site and got the details using beautiful soup
+**Crawling Data**
+
+Using Python I have crawled the website like Zomato which is food search engine website also crawled for yocket website.
+
+For  zomato i used  selenium and provide details in pandas.
+
+For yocket web site used beautiful soup
